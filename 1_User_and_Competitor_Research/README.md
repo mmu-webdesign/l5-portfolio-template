@@ -40,13 +40,13 @@ Insert these images, provide captions to illustrate your ideation sessions.
 
 >Document: [ideation.md](ideation.md)
 
-*This document will be reviewed and feedback provided at SP2. It is marked at SP5.*
+*This document will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
 - The above indicates that we will mark the final version of this document at Submission Point 5. 
     
-- At Submission Point 2 we will review the current version of your documents and provide feedback and guidance. 
+- At Submission Point 1 we will review the current version of your documents and provide feedback and guidance. 
     
-- You should take the opportunity after SP2 to use our feedback to improve your submission.
+- You should take the opportunity after SP1 to use our feedback to improve your submission.
 
 - Use subsequent sprint meetings to show us revised versions.
 
@@ -56,17 +56,17 @@ Insert these images, provide captions to illustrate your ideation sessions.
 
 ## User Research Report
 
-User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the [BBC User Research template](../../raw/master/templates/template_user_research.docx) document.
-    
+User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the document provided which is based on a BBC User Research document.
+
+ ### Output
+
 Each team member should develop 2 or 3 user profiles. Note - these are not Personas (developed later). These should be based on real people.
 
 You are trying to get the thoughts of 'real' people about the type of product you are about to build (and their experience of similar products).
     
-### Output
+>Document: [user-research.md](user-research.md)
 
-Save as a single docx file. Filename - `user_research.docx`. Save to the `docs` folder.
-
-*Your user research will be reviewed and feedback provided at SP2. It is marked at SP5.*
+*Your user research will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
 ---
 
