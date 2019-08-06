@@ -12,5 +12,12 @@ Embed the images in the markdown file using either of these methods.
 
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
 
+```
+<img src="sp1-media/octocat.png" alt="Octocat" title="something">
+```
+
 ![Alt text](sp1-media/octocat.png?raw=true "Title")
 
+```
+![Alt text](sp1-media/octocat.png?raw=true "Title")
+```
