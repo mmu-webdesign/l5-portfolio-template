@@ -1,4 +1,4 @@
-<img src="media/octocat.png">
+<img src="media/octocat.png" alt="Octocat">
 
 ![Alt text](media/octocat.png?raw=true "Title")
 
