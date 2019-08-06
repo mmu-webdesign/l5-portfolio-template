@@ -1,4 +1,4 @@
-# User & Competitor Research
+# User &amp; Competitor Research
 
 ## Term 1. Weeks 1-5.
 
@@ -11,9 +11,9 @@ The following documents should be presented. Note that they are not being assess
 
 - [SP1 planning document](#sp1-planning-document)
 - [Ideation Report](#Ideation-Report)
-- User Research Report
-- The Proposal
-- Competitor Analysis
+- [User Research Report](#User-Research-Report)
+- [The Proposal](#The-Proposal)
+- [Competitor Analysis](#Competitor-Analysis)
 
 ---
 
@@ -22,23 +22,6 @@ The following documents should be presented. Note that they are not being assess
 Use the planning document to prepare and record the meeting.
 
 >Document: [sp1-planning.md](sp1-planning.md)
-
----
-
-## Ideation Report
-
-    
-Initial ideas - You will be introduced in class to a variety of ideation techniques, allowing the team to 'brainstorm' and define a number of initial ideas for the project web site (the Guide).
-    
-### Output
-
-Write a short (300 word max) outlining your ideation process and the techniques used.
-
-Scan any resulting documents (photograph if too big) and save as .jpg files in the `sp1-media` folder.
-
-Insert these images, provide captions to illustrate your ideation sessions.
-
->Document: [ideation.md](ideation.md)
 
 *This document will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
@@ -54,11 +37,26 @@ Insert these images, provide captions to illustrate your ideation sessions.
 
 ---
 
+## Ideation Report
+
+    
+Initial ideas - You will be introduced in class to a variety of ideation techniques, allowing the team to 'brainstorm' and define a number of initial ideas for the project web site (the Guide).
+    
+Write a short (300 word max) outlining your ideation process and the techniques used.
+
+Scan any resulting documents (photograph if too big) and save as .jpg files in the `sp1-media` folder.
+
+Insert these images, provide captions to illustrate your ideation sessions.
+
+>Document: [ideation.md](ideation.md)
+
+*Your ideation will be reviewed and feedback provided at SP1. It is marked at SP5.*
+
+---
+
 ## User Research Report
 
 User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the document provided which is based on a BBC User Research document.
-
- ### Output
 
 Each team member should develop 2 or 3 user profiles. Note - these are not Personas (developed later). These should be based on real people.
 
@@ -76,13 +74,9 @@ Project Proposal - You are required to create a Proposal (1000 words) that provi
 
 The proposal becomes an agreement between your team and the client about vision and direction of the Guide.
 
-Use the [Proposal template document](../../raw/master/templates/template_proposal.docx) provided.
-    
-### Output
+>Document: [proposal.md](proposal.md)
 
-Format - docx file. Filename - `proposal.docx`. Save to the `docs` folder.
-
-*Your proposal will be reviewed and feedback provided at SP2. It is marked at SP5.*
+*Your proposal will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
 ---
 
@@ -90,12 +84,16 @@ Format - docx file. Filename - `proposal.docx`. Save to the `docs` folder.
     
 Competitor Analysis Report - As a team, you are required to review 3 web sites that are similar to the type of site you are building – a guide. These sites may be local, UK-based or overseas (if relevant).
     
-You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. Avoid Trip Advisor. Analyse the 3 sites using the criteria on the [Competitor Analysis template](../../raw/master/templates/template_competitor_analysis.docx) provided.
+You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. Avoid Trip Advisor. 
+
+Analyse the 3 sites using the criteria on the Competitor Analysis document provided.
+
+**The Competitor Analysis document is too complex for Markdown and is therefore supplied as an MSword document.**
+
+>Document: [Competitor-Analysis.docx ](competitor-analysis.docx) provided.
     
-### Output
+*Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
-Format - docx file. Filename - `competitor_analysis.docx`. Save to the `docs` folder.
-
-*Your competitor analysis will be reviewed and feedback provided at SP2 Presentation. It is marked at SP5.*
+[Return to top](#User-&amp;-Competitor-Research)
 
 ---
