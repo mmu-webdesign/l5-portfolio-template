@@ -1,4 +1,7 @@
-<img src="media/octocat.jpg">
+<img src="media/octocat.png">
+
+![Alt text](media/octocat.png?raw=true "Title")
+
 # User & Competitor Research
 
 ## Term 1. Weeks 1-5.
