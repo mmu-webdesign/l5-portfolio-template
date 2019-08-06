@@ -1,25 +1,30 @@
-<img src="media/octocat.png" alt="Octocat">
-
-![Alt text](media/octocat.png?raw=true "Title")
-
 # User & Competitor Research
 
 ## Term 1. Weeks 1-5.
 
 ## Submission Point One
-SP1 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for preparedness and presentation.
+SP1 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for attendance, engagement and preparedness.
 
 The following documents should be presented. Note that they are not being assessed. This is a chance to get formative feedback on your progress.
 
-Final versions of these documents are assessed at the final submission.
+>These documents are assessed at the final submission.
 
-- SP1 planning document
-- Ideation Report
+- [SP1 planning document](#sp1-planning-document)
+- [Ideation Report](#Ideation-Report)
 - User Research Report
 - The Proposal
 - Competitor Analysis
 
+---
+
 ## SP1 planning document
+
+Use the planning document to prepare and record the meeting.
+
+>Document: [sp1-planning.md](sp1-planning.md)
+
+---
+
 ## Ideation Report
 
     
@@ -27,7 +32,13 @@ Initial ideas - You will be introduced in class to a variety of ideation techniq
     
 ### Output
 
-Scan any resulting documents (photograph if too big) and save as a single pdf file. Filename - `ideation.pdf`. Save to the `docs` folder.
+Write a short (300 word max) outlining your ideation process and the techniques used.
+
+Scan any resulting documents (photograph if too big) and save as .jpg files in the `sp1-media` folder.
+
+Insert these images, provide captions to illustrate your ideation sessions.
+
+>Document: [ideation.md](ideation.md)
 
 *This document will be reviewed and feedback provided at SP2. It is marked at SP5.*
 
