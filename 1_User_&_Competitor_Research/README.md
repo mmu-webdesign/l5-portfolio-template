@@ -1,3 +1,4 @@
+<img src="media/octocat.jpg">
 # User & Competitor Research
 
 ## Term 1. Weeks 1-5.
