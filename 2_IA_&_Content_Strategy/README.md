@@ -17,7 +17,7 @@ Final versions of these documents are assessed at the final submission.
 
 ## SP2 planning document
 ## Personas
-##User Storyboards
-##Information Architecture Report]
-##Site Plan
-##Content Delivery Schedule
+## User Storyboards
+## Information Architecture Report]
+## Site Plan
+## Content Delivery Schedule

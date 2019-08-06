@@ -16,11 +16,7 @@ Final versions of these documents are assessed at the final submission.
 - Competitor Analysis
 
 ## SP1 planning document
-
 ## Ideation Report
-
 ## User Research Report
-
 ## The Proposal
-
 ## Competitor Analysis
