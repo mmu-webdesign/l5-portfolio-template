@@ -84,13 +84,15 @@ The proposal becomes an agreement between your team and the client about vision 
     
 Competitor Analysis Report - As a team, you are required to review 3 web sites that are similar to the type of site you are building – a guide. These sites may be local, UK-based or overseas (if relevant).
     
-You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. Avoid Trip Advisor. 
+You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. 
+
+**Avoid Trip Advisor**. 
 
 Analyse the 3 sites using the criteria on the Competitor Analysis document provided.
 
 **The Competitor Analysis document is too complex for Markdown and is therefore supplied as an MSword document.**
 
->Document: [Competitor-Analysis.docx ](competitor-analysis.docx) provided.
+>Document: [competitor-analysis.docx ](competitor-analysis.docx) provided.
     
 *Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
