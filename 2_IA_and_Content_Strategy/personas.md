@@ -13,14 +13,14 @@ Provide a description and explain how this persona was derived from your user re
 
 ## Persona Two
 
-<img src="sp2-media/persona.png" alt="Persona One" width="1000">
+<img src="sp2-media/persona.png" alt="Persona Two" width="1000">
 
 ## Name of persona
 Provide a description and explain how this persona was derived from your user research.
 
 ## Persona Three
 
-<img src="sp2-media/persona.png" alt="Persona One" width="1000">
+<img src="sp2-media/persona.png" alt="Persona Three" width="1000">
 
 ## Name of persona
 Provide a description and explain how this persona was derived from your user research.
