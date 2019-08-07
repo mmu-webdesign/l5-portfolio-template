@@ -27,23 +27,26 @@ Most of the documents we are asking you to develop are in Markdown.
 
 Markdown is one of those *little* skills you should have. It's also fun and easy to use. You can open and create `.md` documents in [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown). Preview mode allows you to edit and view a document in your editor.
 
+### Markdown Cheatsheet
+
 [Adam Pritchard's Markdown Cheatsheet on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) has all you need to get started. He also links to some more detailed resources.
 
 ---
+## Version Control
 
-## Git
+### Git
 
 >Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. [Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 Using Git allows your team to manage both your documents and code for this assignment. Correctly used, version control allows multiple users to contribute to (or comment on) the same document (although this can get complicated). It also allows you to recover previous versions. Instructions and advice for use will be given in class.
 
-## GitHub
+### GitHub
 
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. [TechCrunch](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
 
 GitHub is one of those things you *just need to know* in digital. It can be complex. Teams can decide what level of use they want to make of GitHub throughout the project.
 
-We recommend you use GitHub to co-operate on documents rather than to *work on at the same time*.
+>We recommend you use GitHub to co-operate on documents rather than to *work on at the same time*.
 
 ---
 
