@@ -28,13 +28,15 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 -  Responsive web design.
 
--  The site should be highly usable, following the design for all ethos.
+-  The site should be highly usable, following the *design for all* ethos.
 
-- Accessibility - Conformance to Web Content Accessibility Guidelines (WCAG) 2.0. See the accompanying [WCAG checklist](https://webaim.org/standards/wcag/WCAG2Checklist.pdf) and [checklist support](../../raw/master/support/WCAG2_checklist_support.doc) documents (SP5).
+- Accessibility - Conformance to Web Content Accessibility Guidelines (WCAG) 2.1.
 
 - SEO (Search Engine Optimization) - all pages should have relevant titles and meta descriptions for good SEO. All written content should be written with SEO in mind (use of keywords, link text etc.).
 
-`*` *Images, text and video are illustrative. Imagine they are examples to brief some 'in-house' employees on how the rest of the site could be completed. The assignment does not require pages and pages of content. Any content produced must be of a high quality, grammar and spell checked, optimised for the web.*
+**Images, text and video are illustrative**. 
+
+>Imagine they are examples to brief some 'in-house' employees on how the rest of the site could be completed. The assignment does not require pages and pages of content. Any content produced must be of a high quality, grammar and spell checked, optimised for the web.
 
 ## Technical requirements
 
@@ -42,11 +44,12 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 -  All presentation must be applied using CSS (Cascading Style Sheets) for efficient site maintenance and to enable rapid amendment or updating to meet changing operational needs.  
 
--  The website must be developed to be responsive to various mobile platforms.
+-  The website must be developed to be responsive to various platforms.
 
-- The client wants original coding from the team - no use of frameworks such as BootStrap.
+>The client wants original coding from the team - no use of frameworks such as BootStrap.
 
-    - If you want to use a chunk of code from a tutorial or such, seek permission from the client (tutors).
+
+- If you want to use a chunk of code from a tutorial or such, seek permission from the client (tutors).
 
 -  Any materials used must not infringe copyright or trademarks.
 
@@ -76,8 +79,8 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 Tutors will guide each team through the web development process via a number of submission points.
 
-- **SP1** - Research phase.
-- **SP2** - Research phase.
+- **SP1** - User and Competitor research.
+- **SP2** - IA and Content strategy.
 - **SP3** - Design &amp; prototyping.
 - **SP4** - Usability testing.
 - **SP5** - The Guide &amp; Portfolio completed.
