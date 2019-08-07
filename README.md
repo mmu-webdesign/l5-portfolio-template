@@ -30,7 +30,7 @@ SP1-4 are check points to provide formative feedback. Each of these are worth up
 - [Submission Point 2](2_IA_and_Content_Strategy/README.md) - IA and Content Strategy
 - [Submission Point 3](3_Design_&_Prototyping/README.md) - Design and Prototyping
 - [Submission Point 4](4_Usability_Testing/README.md) - Usability testing
-- [Submission Point 5](5_QA_and_The_Guide/README.md) - The Portfolio and The Guide (the website)
+- [Submission Point 5](5_QA_and_The_Guide/README.md) - The completed Portfolio and The Guide (the website)
 
 ## Submission point marksheets
 
