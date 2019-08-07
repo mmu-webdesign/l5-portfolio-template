@@ -36,10 +36,10 @@ SP1-4 are check points to provide formative feedback. Each of these are worth up
 
 MSWord documents.
 
-- [SP 1 Marksheet](marksheets/sp1-marksheet.docx)
-- [SP 2 Marksheet](marksheets/sp2-marksheet.docx)
-- [SP 3 Marksheet](marksheets/sp3-marksheet.docx)
-- [SP 4 Marksheet](marksheets/sp4-marksheet.docx)
+- [SP 1 Marksheet](marksheets/sp1-marksheet.docx) - User and Competitor research
+- [SP 2 Marksheet](marksheets/sp2-marksheet.docx) - IA and Content Strategy
+- [SP 3 Marksheet](marksheets/sp3-marksheet.docx) - Design and Prototyping
+- [SP 4 Marksheet](marksheets/sp4-marksheet.docx)  - Usability testing
 - [SP 5 Portfolio Marksheet](marksheets/sp5-portfolio-marksheet.docx) - The completed Portfolio
 - [SP 5 Website Marksheet](marksheets/sp5-website-marksheet.docx) - The Guide (website).
 
