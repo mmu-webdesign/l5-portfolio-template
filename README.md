@@ -18,7 +18,7 @@ Plus a short introduction.
 
 ## Assessment overview
 
->[Read the assignment overview - The brief](the-brief.md).
+>**IMPORTANT -[Read the assignment overview - The brief](the-brief.md)**.
 
 The project is broken down into 5 separate submission points. Submission Point 5 is the final submission date from which the whole project (the Guide website and this portfolio of documents) is assessed. 
 
