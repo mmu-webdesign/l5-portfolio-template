@@ -15,8 +15,6 @@ The following documents should be presented. Note that they are not being assess
 - [The Proposal](#The-Proposal)
 - [Competitor Analysis](#Competitor-Analysis)
 
----
-
 First, a few words about our use of Markdown and GitHub.
 
 ## Markdown
@@ -31,7 +29,6 @@ Markdown is one of those *little* skills you should have. It's also fun and easy
 
 [Adam Pritchard's Markdown Cheatsheet on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) has all you need to get started. He also links to some more detailed resources.
 
----
 ## Version Control
 
 ### Git
