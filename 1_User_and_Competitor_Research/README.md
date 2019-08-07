@@ -29,6 +29,20 @@ Markdown is one of those *little* skills you should have. It's also fun and easy
 
 ---
 
+## Git
+
+>Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. [Wikipedia](https://en.wikipedia.org/wiki/Git)
+
+Using Git allows your team to manage both your documents and code for this assignment.
+
+## GitHub
+
+GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. [TechCrunch](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
+
+GitHub is one of those things you *just need to know* in digital. It can be complex. Teams can decide what level of use they want to make of GitHub throughout the project.
+
+---
+
 ## SP1 planning document
 
 Use the planning document to prepare and record the meeting.

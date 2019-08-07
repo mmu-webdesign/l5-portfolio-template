@@ -76,13 +76,13 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 Tutors will guide each team through the web development process via a number of submission points.
 
-- **SP1** - Team website.
+- **SP1** - Research phase.
 - **SP2** - Research phase.
-- **SP3** - Design &amp; testing.
-- **SP4** - Build &amp; testing.
+- **SP3** - Design &amp; prototyping.
+- **SP4** - Usability testing.
 - **SP5** - The Guide &amp; Portfolio completed.
 
-Each week your team will attended a sprint meeting with tutors to discuss your progress, address issues and answer questions.
+Most weeks your team will attended a sprint meeting with tutors to discuss your progress, address issues and answer questions.
 
 As well as building a web site you are creating a portfolio of evidence. Each of these element's has its own brief.
 
