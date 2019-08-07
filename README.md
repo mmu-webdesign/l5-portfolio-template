@@ -8,7 +8,7 @@ The project is broken down into 5 separate submission points. Submission Point 5
 
 SP1-4 are check points to provide formative feedback. Each of these are worth up to 5 marks for engagement and professionalism.
 
-- [Submission Point 1](3_Design_&_Prototyping/README.md)
+- [Submission Point 1](1_User_and_Competitor_Research/README.md)
 - [Submission Point 2](2_IA_and_Content_Strategy/README.md)
 - [Submission Point 3](3_Design_&_Prototyping/README.md)
 - [Submission Point 4](4_Usability_Testing/README.md)
