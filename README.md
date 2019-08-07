@@ -45,7 +45,6 @@ MSWord documents.
 - [SP 5 Portfolio Marksheet](marksheets/sp5-portfolio-marksheet.docx) - The completed Portfolio
 - [SP 5 Website Marksheet](marksheets/sp5-website-marksheet.docx) - The Guide (website).
 
-Students - if you find any issues with any of the documents in this repository [post an issue](https://help.github.com/articles/about-issues/) on GitHub.
 
 
 

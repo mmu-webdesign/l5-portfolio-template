@@ -94,5 +94,3 @@ As well as building a web site you are creating a portfolio of evidence. Each of
  Using the briefs and mark sheets for each submission point in conjunction with this client brief will help ensure that you are delivering the required elements at each stage. 
  
  Any questions? Ask the tutors at your next sprint meeting. Decide if it is it a question for the tutor or a question for the client.
-
- If you find any issues with any of these documents [post an issue](https://help.github.com/articles/about-issues/) on GitHub.
