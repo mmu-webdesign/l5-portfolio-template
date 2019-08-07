@@ -32,10 +32,15 @@ User Personas - Create 3 user personas based on the user types your research ind
 One must be an international visitor to your site. Maybe one disabled but this must be based on your research not a guess.
     
 We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
-    
-### Output
 
-Format - pdf file. Filename - `personas.pdf`. Save to the `docs` folder.
+Instructions:
+
+- Output each of your personas as .jpg or .png files
+- Ensure the files are at least 1900px wide
+- Save to the sp2-media folder
+- Embed each persona image (using the code provided) in `personas.md`
+
+>Document: [personas.md](personas.md)
 
 *Your personas will be reviewed as part of the SP2 Presentation. They are marked at SP5.*
 
