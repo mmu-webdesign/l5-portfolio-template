@@ -8,21 +8,24 @@ The following documents should be presented. Note that they are not being assess
 
 Final versions of these documents are assessed at the final submission.
 
-*   [SP2 planning document](docs/sp2_planning.pdf)
+*   [SP2 planning document](#SP1-planning-document)
 *   [Personas](docs/personas.pdf)
 *   [User Storyboards](docs/user_storyboards.pdf)
 *   [Information Architecture Report](docs/ia_report.pdf)
 *   [Site Plan](docs/site_plan.pdf)
 *   [Content Delivery Schedule](docs/content_schedule.docx)
 
-## SP2 planning document
-## Personas
-## User Storyboards
-## Information Architecture Report
-## Site Plan
-## Content Delivery Schedule
+---
 
-## The brief - Personas
+## SP2 planning document
+
+As per SP1, use the planning document to prepare and record the meeting.
+
+>Document: [sp2-planning.md](sp2-planning.md)
+
+---
+
+## Personas
     
 User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your guide.
     
