@@ -17,6 +17,18 @@ The following documents should be presented. Note that they are not being assess
 
 ---
 
+## Markdown
+
+Most of the documents we are asking you to develop are in Markdown.
+
+>Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
+Markdown is one of those *little* skills you should have. It's also fun and easy to use. You can open and create `.md` documents in [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown). Preview mode allows yoou to edit and view a document in your editor.
+
+[Adam Pritchard's Markdown Cheatsheet on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) has all you need to get started. He also links to some more detailed resources.
+
+---
+
 ## SP1 planning document
 
 Use the planning document to prepare and record the meeting.
