@@ -2,7 +2,7 @@
 
 Add your three personas.
 
-*Tutors will click on the image to view the full size image*.
+*Tutors will download the image to view the full size persona*.
 
 ## Persona One
 
