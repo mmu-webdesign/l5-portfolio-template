@@ -55,9 +55,9 @@ Create a simple storyboard (6 or 8 cells) for each of your personas. Illustrate 
 This will help the team think about how your users are going to use and interact with your guide.
 
 To learn more read [Storyboards Help Visualize UX Ideas
-by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/)
+by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/).
 
-Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8)
+Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8).
 
 ### Instructions:
 
