@@ -33,7 +33,7 @@ One must be an international visitor to your site. Maybe one disabled but this m
     
 We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
 
-Instructions:
+### Instructions:
 
 - Output each of your personas as .jpg or .png files
 - Ensure the files are at least 1900px wide
@@ -46,11 +46,34 @@ Instructions:
 
 ---
 
-## The brief - User Journeys
-    
-User Journey Mapping - **Develop a user journey for each persona**. Explore what type of interaction(s) these users might typically have with the site. Read the article [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/).
-    
-Use the [User Journey template document](../../raw/master/templates/template_user_journey.pptx) we have created from [Paul Boag's article](https://boagworld.com/usability/customer-journey-mapping/).
+## The brief - User Storyboard
+
+>STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
+
+Create a simple storyboard (6 or 8 cells) for each of your personas. Illustrate how they might each interact with your guide. This could be an illustration of their touch points and interactions with your guide throughout the day, or perhaps during a term.
+
+This will help the team think about how your users are going to use and interact with your guide.
+
+To learn more read [Storyboards Help Visualize UX Ideas
+by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//bNh54LNUtv8' frameborder='0' allowfullscreen></iframe></div>
+
+### Instructions:
+
+- Create your persona on paper or digitally depending on your skills. It does not be high fidelity.
+- The above article includes a template you can print, or shows how post-its can be used in a collaborative manner.
+- Add captions to each frame.
+- If on paper, scan rather than photograph for better results.
+- Output each of your storyboards as .jpg or .png files
+- Ensure the files are at least 1900px wide
+- Save to the sp2-media folder
+- Embed each storyboard image (using the code provided) in `storyboards.md`
+
+>Document: [storyboards.md](storyboard.md)
+
+*Your storyboards will be reviewed as part of the SP2 Presentation. They are marked at SP5.* 
+
     
 ### Output
 
