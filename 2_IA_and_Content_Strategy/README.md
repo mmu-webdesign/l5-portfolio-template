@@ -102,38 +102,27 @@ Write a short (800 words max) illustrated report on the process and results of b
 
 ## Site Plan
     
-Site Plan - This is an illustration of your recommended architecture for the new site based on the findings of your card sorting and tree testing exercise. 
+ A site plan is an 2D illustration of your recommended architecture for the new site based on the findings of your card sorting and tree testing exercise. 
 
-You MUST use the formatting illustrated in class. By the end of the project you may have a number of iterations of this plan due to changes as you progress with the project.
-    
-Use the [site plan template document](../../raw/master/templates/template_site_plan.pptx).
-    
-You can use the tools in PowerPoint to create a simple tree structure.
-    
-### Output
+You should use the format illustrated in class created in PowerPoint, use a flow chart tool like Visio, or draw with an illustration tool.
 
-Format - pptx file. Filename - `site_plan.pptx`. Save to the `docs` folder.
+>You site plan is going to evolve over the project via a number of iterations, especially as you develop the content. Do not stray too far from the original results of your card test/tree test without testing again.
+    
+### Instructions:
 
-*Your initial site plan will be reviewed as part of the SP2 Presentation. It is marked at SP5.*
+- Output each of your site plan(s) as .jpg or .png files
+- Ensure the files are at least 1900px wide
+- Save to the sp2-media folder
+- Embed each site plan using the code provided in `siteplan.md`
+- add commentary as directed.
+
+>Document: [siteplan.md](siteplan.md)
+
+*Your initial site plan will be reviewed and feedback provided at SP2. As the project develops you can add any further iterations. They are all marked at SP5.*
 
 ---
 
-## Database schema
-
-### AWDD Students only
-
-Your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local cheese varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
-
-### Output
-
-Bring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
-
-Format - pdf file. Filename - `schema.pdf`. Save to the `docs` folder.
-
-
----
-
-## The brief - Content Delivery Schedule
+## Content Delivery Schedule
     
 An essential part of the development of your site is to decide on the content of each page. As a team, you then need to decide where the content, which may include text, images, links (and metadata if you really want to get ahead), is going to come from. This means agreeing and charting what is required and who is responsible for either gathering or creating each item.
     
@@ -150,3 +139,15 @@ Format - docx file. Filename - `content_schedule.docx`. Save to the `docs` folde
 *Your content delivery schedule will be reviewed at SP3. It is marked at SP5.*
 
 ---
+
+## Database schema
+
+### AWDD Students only
+
+Your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local cheese varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
+
+### Output
+
+Bring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
+
+Format - pdf file. Filename - `schema.pdf`. Save to the `docs` folder.
