@@ -42,7 +42,7 @@ We prefer you to be creative and develop your own personas over using a template
 
 >Document: [personas.md](personas.md)
 
-*Your personas will be reviewed as part of the SP2 Presentation. They are marked at SP5.*
+*Your personas will be reviewed and feedback provided at SP2. They are marked at SP5.*
 
 ---
 
@@ -72,14 +72,7 @@ Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54
 
 >Document: [storyboards.md](storyboard.md)
 
-*Your storyboards will be reviewed as part of the SP2 Presentation. They are marked at SP5.* 
-
-    
-### Output
-
-Format - docx file. Filename - `user_journey.docx`. Save to the `docs` folder.
-
-*A sample user journey will be reviewed as part of the SP2 Presentation. They all are marked at SP5.*
+*Your storyboards will be reviewed and feedback provided at SP2. They are marked at SP5.*
 
 ---
     
