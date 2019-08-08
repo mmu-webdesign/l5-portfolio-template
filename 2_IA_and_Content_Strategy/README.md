@@ -57,7 +57,7 @@ This will help the team think about how your users are going to use and interact
 To learn more read [Storyboards Help Visualize UX Ideas
 by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/)
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//bNh54LNUtv8' frameborder='0' allowfullscreen></iframe></div>
+Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8)
 
 ### Instructions:
 
