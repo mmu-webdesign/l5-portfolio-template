@@ -76,19 +76,26 @@ Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54
 
 ---
     
-## The brief - Information Architecture
+## Information Architecture
     
-Information Architecture Report - The team must carry out and record an open card sort and tree jacking exercise to inform your initial site architecture. This will be illustrated as a site plan.
-    
-Write a short (500 words) illustrated report on the process and results.
-    
-Use the [report template document](../../raw/master/templates/template_ia_report.docx).
-    
-### Output
+Information Architecture Report - The team must carry out and record both an **Open Card Sort** and **Tree Jacking** exercises to inform your initial site architecture. This will be illustrated as a site plan.
 
-Format - docx file. Filename - `ia_report.docx`. Save to the `docs` folder.
+>Card sorting is a method used to help design or evaluate the information architecture of a site. In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html).
 
-*Not required for the SP2 Presentation. It is marked at SP5.*
+Undertake an Open Card Sort with a number of people using paper or [Optimal Workshop Card Sort](https://www.optimalworkshop.com/optimalsort) (online).
+
+Read [Card Sorting 101: Your guide to creating and running an effective card sort](https://www.optimalworkshop.com/101/card-sorting). Optimal Sort.
+
+Once you have an architecture you like, test it out with a tree jack exercise, again on paper or using [Optimal Workshop Treejack](https://www.optimalworkshop.com/treejack) (online) on a number of people.
+
+### Report
+
+Write a short (800 words max) illustrated report on the process and results of both the card sort and tree jack exercises.
+
+>Document: [ia-report.md](storyboard.md)
+
+*Your report will be reviewed and feedback provided at SP2. It is marked at SP5.*
+
 
 ---
 
