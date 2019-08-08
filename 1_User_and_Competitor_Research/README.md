@@ -45,6 +45,8 @@ GitHub is one of those things you *just need to know* in digital. It can be comp
 
 >We recommend you use GitHub to co-operate on documents rather than to *work on at the same time*.
 
+Used correctly, making use of GitHub at the very least ensures all of your work is backed up.
+
 ---
 
 ## SP1 planning document
