@@ -125,18 +125,36 @@ You should use the format illustrated in class created in PowerPoint, use a flow
 ## Content Delivery Schedule
     
 An essential part of the development of your site is to decide on the content of each page. As a team, you then need to decide where the content, which may include text, images, links (and metadata if you really want to get ahead), is going to come from. This means agreeing and charting what is required and who is responsible for either gathering or creating each item.
-    
-The actual building process of your site will be both speedier and easier if you have all the relevant materials ready prior to the final construction phase.
-    
-Create a a team repository for all the site content. Set up a procedure for proofing copy and optimising media.
-    
-You are required to use the [Content Schedule template document](../../raw/master/templates/template_content_schedule.docx).
-    
-### Output
 
-Format - docx file. Filename - `content_schedule.docx`. Save to the `docs` folder.
+>Imaging designing a print magazine layout without knowing what content was going into the magazine. The sizes of various images? The length of various articles? A website is much the same - having the content (or some of it) before you start designing makes the process so much easier (and less guesswork).
 
-*Your content delivery schedule will be reviewed at SP3. It is marked at SP5.*
+The actual building process of your site will also be both speedier and easier if you have much of the relevant materials ready prior to the final construction phase.
+    
+>Create folders (text/media) in this repository for all the site content. Set up a procedure for proofing copy and optimising media.
+    
+You are required to use the Content Schedule template document provided.
+    
+### The Schedule
+
+>Document: [content-delivery-schedule.xlsx](content-delivery-schedule.xlsx)
+
+*Your content delivery schedule will be reviewed at SP2. It is marked at SP5.*
+
+>### Best Practices for Creating Meaningful Content
+>
+>Some good advice from [Usability.gov](https://www.usability.gov/what-and-why/content-strategy.html).
+>
+>We have identified these best practices to help you create meaningful and relevant content.  Each piece of content should:
+>
+>- Reflect your organization’s goals and user’s needs.  You can discover your user’s needs through conducting market research, user research, and analyzing web metrics.
+>- Understand how user’s think and speak about a subject. Content should then be created and structured based on that.  Doing this will also help you with search engine optimization (SEO).
+>- Communicate to people in a way that they understand.  Embracing plain writing principles helps with this.
+>- Be useful.  By being purposeful in the content that you include, omit the needless.
+>- Stay up-to-date and and remain factual.  When new information becomes available, update your content or archive it.
+>- Be accessible to all people.  You have a responsibility to make sure that all people can access and benefit from your information.
+>- Be consistent.  Following style guides, both for language and design, helps people understand and learn what you are trying to communicate.
+>- Be able to be found.  Make sure that users can find your content both through internally through navigation and also externally through search engines.
+>-Help define the requirements for the overall site.  Content should drive design, structure, etc
 
 ---
 
