@@ -8,7 +8,7 @@ The following documents should be presented. Note that they are not being assess
 
 Final versions of these documents are assessed at the final submission.
 
-*   [SP2 planning document](#SP1-planning-document)
+*   [SP2 planning document](#SP2-planning-document)
 *   [Personas](#personas)
 *   [User Storyboards](#user-storyboards)
 *   [Information Architecture Report](#Information-Architecture-Report)
@@ -47,7 +47,7 @@ We prefer you to be creative and develop your own personas over using a template
 
 ---
 
-## The brief - User Storyboards
+## User Storyboards
 
 >STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
 
@@ -77,7 +77,7 @@ Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54
 
 ---
     
-## Information Architecture
+## Information Architecture Report
     
 Information Architecture Report - The team must carry out and record both an **Open Card Sort** and **Tree Testing** exercises to inform your initial site architecture. This will be illustrated as a site plan.
 
