@@ -162,10 +162,12 @@ You are required to use the Content Schedule template document provided.
 
 ### AWDD Students only
 
-Your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local cheese varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
+Your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local cheese varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. 
+
+We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
 
 ### Output
 
-Bring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
+Sp2 mettingBring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
 
-Format - pdf file. Filename - `schema.pdf`. Save to the `docs` folder.
+>Document: `schema.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
