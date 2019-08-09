@@ -9,11 +9,12 @@ The following documents should be presented. Note that they are not being assess
 Final versions of these documents are assessed at the final submission.
 
 *   [SP2 planning document](#SP1-planning-document)
-*   [Personas](docs/personas.pdf)
-*   [User Storyboards](docs/user_storyboards.pdf)
-*   [Information Architecture Report](docs/ia_report.pdf)
-*   [Site Plan](docs/site_plan.pdf)
-*   [Content Delivery Schedule](docs/content_schedule.docx)
+*   [Personas](#personas)
+*   [User Storyboards](#user-storyboards)
+*   [Information Architecture Report](#Information-Architecture-Report)
+*   [Site Plan](#site-plan)
+*   [Content Delivery Schedule](#content-delivery-schedule)
+* [Database schema](#Database-schema)
 
 ---
 
