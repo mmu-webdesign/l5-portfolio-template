@@ -22,19 +22,19 @@ Use this as a working document throughout the project to help manage these docum
 * actions -
 
 
-### Moodboards
+### Mood boards
 * author(s) -
 * status - 
 * actions -
 
 
-### Styleguide
+### Style guide
 * author(s) -
 * status - 
 * actions -
 
 
-### Design report
+### Parallel Design report
 * author(s) -
 * status - 
 * actions -
