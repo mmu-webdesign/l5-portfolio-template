@@ -110,12 +110,12 @@ This technique involves each team member creating an initial design for your gro
     
 Record their comments, discuss as a group - do they love your design? Have they spotted something that needs changing?
     
-### For SP3
+### Parallel Design Report
     
-Each group member will add their design plus the group's _final design_ to the file:
+Each group member will add their design plus the group's *final design* to the file:
     
 > Document: [parallel-designs.md](parallel-designs.md)
 
-*Your designs will be reviewed and feedback provided at SP3 as part of the presentation. They are marked at SP5.*
+*Your designs will be reviewed and feedback provided at SP3. They are marked at SP5.*
 
 ---
