@@ -1,6 +1,8 @@
 # Information Architecture (IA) & Content Strategy
 
-## Term 1. Weeks 7-12.
+### Term 1. Weeks 7-12.
+
+## Submission Point Two
 
 SP2 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for preparedness and presentation.
 

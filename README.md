@@ -45,6 +45,25 @@ MSWord documents.
 - [SP 5 Portfolio Marksheet](marksheets/sp5-portfolio-marksheet.docx) - The completed Portfolio
 - [SP 5 Website Marksheet](marksheets/sp5-website-marksheet.docx) - The Guide (website).
 
+## Project Management
+
+This is not a project which everything can be done 2 weeks before submission. We have structured the 5 submission points to ensure that you develop the project over the two terms, with final delivery in the third term.
+
+We expect each group to manage the web development process as a team. 
+
+* You should appoint a project manager - but do not expect them to manage everything.
+* Set frequent deadlines for all of the various elements of the project when relevant.
+*  Support each other by meeting each deadline with your personal contribution.
+* Meet physically or virtually out of class time.
+* Set up and agree communications channels.
+
+>Use the Kanban style board under the Projects tab in GitHub to track and manage the project.
+
+* Each team member should read the instructions for each element - don't rely on the project manager alone.
+* Track contributions on GiHub. If someone is failing the group, manage or discuss with tutors urgently.
+* Make the most of every taught session to move the project forward.
+
+>Every team member must attend the first 4 submission points to get the marks.
 
 
 

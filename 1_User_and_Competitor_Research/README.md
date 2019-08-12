@@ -1,6 +1,6 @@
 # User &amp; Competitor Research
 
-## Term 1. Weeks 1-5.
+### Term 1. Weeks 1-5.
 
 ## Submission Point One
 SP1 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for attendance, engagement and preparedness.
@@ -46,6 +46,8 @@ GitHub is one of those things you *just need to know* in digital. It can be comp
 >We recommend you use GitHub to co-operate on documents rather than to *work on at the same time*.
 
 Used correctly, making use of GitHub at the very least ensures all of your work is backed up.
+
+>**Final word** - GitHub provides tutors (and team members) an unparalleled insight into the contributions of each team member.
 
 ---
 
