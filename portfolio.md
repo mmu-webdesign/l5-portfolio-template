@@ -1,6 +1,6 @@
-# Contents
+# Portfolio
 
-For Submission Point 5 all of the following documents need to be completed and in place.
+For Submission Point 5 all of the following documents need to be completed and in place to be assessed.
 
 ## SP1
 
@@ -29,4 +29,4 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ## SP5
 
- [The Guide website](The-Guide/)
+ [The Guide website](the-guide/)
