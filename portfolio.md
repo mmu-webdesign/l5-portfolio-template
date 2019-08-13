@@ -23,16 +23,16 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ## SP3
 
-- [sp3-planning.md](sp3-planning.md)
-- [mood-boards.md](mood-boards.md)
-- [style_guide.html](styleguide/style_guide.html)
-- [parallel-designs.md](parallel-designs.md)
+- [sp3-planning.md](3_Design_&_Prototyping/sp3-planning.md)
+- [mood-boards.md](3_Design_&_Prototyping/mood-boards.md)
+- [style_guide.html](3_Design_&_Prototyping/styleguide/style_guide.html)
+- [parallel-designs.md](3_Design_&_Prototyping/parallel-designs.md)
 
 ## SP4
 
-- [sp4-planning.md](sp4-planning.md)
-- [test script template document](test_script.md)
-- [Usability Testing Report](usability_testing_report.md)
+- [sp4-planning.md](4_Usability_Testing/sp4-planning.md)
+- [test script template document](4_Usability_Testing/UX-testing/test_script.md)
+- [Usability Testing Report](4_Usability_Testing/usability_testing_report.md)
 
 ## SP5
 
