@@ -2,7 +2,7 @@
 
 For Submission Point 5 all of the following documents need to be completed and in place.
 
-[The Guide website](The-Guide/index.html)
+[The Guide website](The-Guide/)
 
  - [sp1-planning.md](1_User_and_Competitor_Research/sp1-planning.md)
  - [ideation.md](1_User_and_Competitor_Research/ideation.md)
