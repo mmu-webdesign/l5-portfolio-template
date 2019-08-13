@@ -97,7 +97,7 @@ Read [Tree Testing 101: Your guide to creating and running effective tree tests]
 
 Write a short (800 words max) illustrated report on the process and results of both the card sort and tree testing exercises.
 
->Document: [ia-report.md](storyboard.md)
+>Document: [ia-report.md](ia-report.md)
 
 *Your report will be reviewed and feedback provided at SP2. It is marked at SP5.*
 
@@ -174,3 +174,7 @@ We also need you to create a sketch in code or on paper of how these database fi
 Sp2 mettingBring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
 
 >Document: `schema.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
+
+[Return to top](#Information-Architecture-(IA)-&-Content-Strategy)
+
+---
