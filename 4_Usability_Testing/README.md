@@ -9,9 +9,9 @@
 **First - [Read through the instructions](#instructions)**
 
 * [SP4 planning document](#SP4-planning-document)
-*   [Your test script](#test-script)
-*   [User testing consent form - signed](#consent-form)
-*   [Usability testing report](#usability-testing-report)
+* [Your test script](#test-script)
+* [User testing consent form](#consent-form)
+* [Usability testing report](#usability-testing-report)
 
 
 ## Instructions
@@ -44,7 +44,7 @@ Your web site needs to be accessible on the web, ready to test.
     
 ### Assessment
     
-You will be assessed on your preparation and execution of the usability testing session (as per the [marking schedule](../../raw/master/support/sp4-marksheet.docx) ). A tutor will support you.
+You will be assessed on your preparation and execution of the usability testing session (as per the [marking schedule](marksheets/sp4-marksheet.docx) ). A tutor will support you.
     
 ---
 
@@ -143,6 +143,7 @@ Any good UX report should answer the following questions:
 Always make clear any issues (support with images, screenshots etc). Provide solutions, illustrate changes. Test the changes (if you can).
     
 >Document: [Usability Testing Report](usability_testing_report.md).
+
 
 ---
 

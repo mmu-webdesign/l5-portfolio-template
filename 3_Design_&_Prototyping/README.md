@@ -118,4 +118,6 @@ Each group member will add their design plus the group's *final design* to the f
 
 *Your designs will be reviewed and feedback provided at SP3. They are marked at SP5.*
 
+[Return to top](#Design-and-Prototyping)
+
 ---
