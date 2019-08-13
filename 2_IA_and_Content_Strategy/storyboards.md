@@ -28,3 +28,5 @@ Provide a description and explain how this storyboard relates to the persona and
 
 ### Name of persona in this storyboard
 Provide a description and explain how this storyboard relates to the persona and your user research.
+
+---
