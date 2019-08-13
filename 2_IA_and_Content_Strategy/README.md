@@ -73,7 +73,7 @@ Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54
 - Save to the sp2-media folder
 - Embed each storyboard image (using the code provided) in `storyboards.md`
 
->Document: [storyboards.md](storyboard.md)
+>Document: [storyboards.md](storyboards.md)
 
 *Your storyboards will be reviewed and feedback provided at SP2. They are marked at SP5.*
 
