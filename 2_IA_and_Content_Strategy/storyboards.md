@@ -6,7 +6,7 @@ Add your three storyboards.
 
 ## Storyboard One
 
-<img src="sp2-media/storyboard.png" alt="Storyboard One" width="1000">
+<img src="sp2-media/Storyboard.png" alt="Storyboard One" width="1000">
 
 ### Name of persona in this storyboard
 Provide a description and explain how this storyboard relates to the persona and your user research.
