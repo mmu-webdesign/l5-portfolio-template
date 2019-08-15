@@ -6,6 +6,15 @@ The final reports plus the finished `Guide` website.
 
 ## QA
 
+### Testing the site to ensure quality
+
+Quality assurance is essential for any finished product. In the 'real world' you don't want to be releasing a product (website) that contains errors and omissions. 
+
+As a student, to maximise the potential for a good mark you need to:
+
+- Ensure the project fulfils the requirements of the brief (by checking against the brief and marksheets).
+- By testing the final 'live' site before submission using the tools and techniques listed below.
+
 - Accessibility audit
 - Cross Browser testing
 - Usability testing report
@@ -14,112 +23,73 @@ The final reports plus the finished `Guide` website.
 - sprint_sheets
 - Individual statement - to be uploaded to Moodle
 
-## The Guide
+*SP5 is the final submission. Your completed Guide website plus this portfolio of evidence developed over the previous submission points*.
 
-*SP5 is the final submission. Your completed Guide website plus your portfolio of evidence developed over the previous submission points*.
-
-1. **Your guide** - the project web site.
-
-    -  [Download - SP5 - The Guide - Marksheet](../../raw/master/support/sp5-website-marksheet.docx)
-
-1. **The portfolio** - including all linked documents (final versions) via the team website. 
-
-    - [Download - SP5 The Portfolio - Marksheet](../../raw/master/support/sp5-portfolio-marksheet.docx) 
-
-## Final items
-
-All of your documents (including those below) are delivered via the portfolio page of a final version of your team website. Use the parotfolio marksheet to ensure you have all of the required documents in place before submission.
-
-## Testing the site to ensure quality
-
-Quality assurance is essential for any finished product. In the 'real world' you don't want to be releasing a product (website) that contains errors and omissions. 
-
-As a student, to maximise the potential for a good mark you need to:
-
-- Ensure the project fulfils the requirements of the brief (by checking against the brief and marksheet).
-- By testing the final 'live' site before submission using the tools and techniques listed below.
-
-## The brief - Accessibility audit
+## Accessibility audit
     
 The WebAIM WCAG 2 checklist helps you undertake an audit of your site’s accessibility (using the accessibility guidelines).
     
 Three documents are provided.
     
-- Use the [WebAIM WCAG 2 checklist](https://webaim.org/standards/wcag/WCAG2Checklist.pdf) to assess your site. Print a copy and tick or cross relevant boxes.
+- Use the [WebAIM WCAG 2 checklist](https://webaim.org/standards/wcag/WCAG2Checklist.pdf) to assess your site. Print a copy and tick or cross relevant boxes, then scan.
     
-- Use the [WebAIM WCAG 2 support document](../../raw/master/support/WCAG2_checklist_support.docx) to help you understand the checklist and what is relevant to your project.
+- Use the [WebAIM WCAG 2 support document](wcag/WCAG2_checklist_support.docx) to help you understand the checklist and what is relevant to your project.
     
-- Use the [WCAG comments document](../../raw/master/templates/template_WCAG2_comments.docx) to record any issues addressed and actions taken. This document provides tutors with an insight into how you have managed the audit.
+- Use the [WCAG comments document](wcag/template_WCAG2_comments.docx) to record any issues addressed and actions taken. This document provides tutors with an insight into how you have managed the audit.
 
 ### Core accessibility issues for your submission:
     
 1.  Use of semantic elements for page structure
-1.  Colour contrast
-1.  Alt text for images
-1.  Skip links implemented
+1.  Good colour contrast
+1.  Relevant alt text for images
+1.  Skip links implemented on all pages
 1.  Accessible form(s)
 
-### Output
+Create a single document containing your completed checklist and comments document. Format - pdf file. 
 
-Create a single document containing your completed checklist and comments document. Format - pdf file. Filename - `accessibility.pdf`. Save to the `docs` folder.
+>Document: [accessibility.pdf](accessibility.pdf)
 
 ---
     
-## The brief - Cross Browser testing
+## Cross Browser testing
     
 You must check your guide using a variety of browsers across a variety of devices to test browser compatibility. This means different browsers, versions, operating systems and screen sizes.
-    
-You could use a free trial of [www.browserstack.com](http://www.browserstack.com/) \- one of the most popular tools at the moment for cross browser testing. However you can also create screenshots from the variety of browsers available at MMU on the Macs, PCs and iPads. You can also use your personal laptops and mobile devices.
-    
+
+You all have access to a variety of operating systems on laptops, desktops, tablets and mobiles, and a variety of browsers including MS Edge, Chrome, Safari and Firefox.
+
+**Your designs do not need to work on Internet Explorer**.
+       
 Copy the screenshots to the template provided and add comments regarding any findings, errors or corrections. 
 
-Illustrate any corrections - if you've spotted an error, fix it, re-test, screenshot, comment.
+Illustrate any corrections (showing before and after) - if you've spotted an error, fix it, re-test, screenshot, comment.
     
-Use the [browser testing template document](../../raw/master/templates/template_browser_testing.docx).
+> Document: [browser_testing.md](browser_testing.md).
     
-### Output
+---
 
-Format - docx file. Filename - `browser_testing.docx`. Save to the `docs` folder.
+## Usability testing report
+    
+A reminder to update your usability testing report with details and evidence of any further testing before submission.
+    
+>Document: [Usability Testing Report](../4_Usability_Testing/usability_testing_report.md).
 
 ---
 
-## The brief - Usability testing report
+## Google translation testing report
     
-It is presumed that you will be undertaking further testing after the SP4 test session as your site evolves. In fact you may have done earlier test sessions on prototypes etc.
+Internationalisation (`l18n`) is when we take a website and modify it for another audience speaking a different language. If your website was translated into another language, would the layout cope? Some languages have really long words: Rechtsschutzversicherungsgesellschaften (google it) for example. Do you have text 'locked away' in images that can't be translated? What happens when your browser has to show text with a different alphabet?
+    
+We would like you to run your site through Google Translate (using the chrome browser plugin) and check that a visitor from another country would be able to use your site in their language. We'd suggest German, Russian and Chinese as a start - if one of your team members can speak another language please use their expertise and test the site in their language (how good a job does google translate do?). If your site has a form, check this list of falsehoods - are you assuming anything about your users you shouldn't?
 
-Write a summary report detailing your experience of usability testing during this project and what the team learnt, changes implemented etc. Illustrate with relevant screenshots.
-    
-Discuss and provide evidence of any test sessions beyond the SP4 session.
+> **Note**: whilst if your team has language skills it is good to note how well the translations works, this is **not** the focus of this report. **You are looking to see if the change in language breaks your design**. 
 
-**Please note**: Any further test sessions should be managed in a similar way with test candidates signing a consent form and being informed of their rights. Include copies of any additional consent forms with this report.
-
-500 words (+/- 10%).
-    
-Use the [usability report template document](../../raw/master/templates/template_usability_report.docx).
-    
-### Output
-
-Format - docx file. Filename - `usability_report.docx`. Save to the `docs` folder.
-
----
-
-## The brief - Google translation testing report
-    
-Internationalisation (l18n) is when we take a website and modify it for another audience speaking a different language. If your website was translated into another language, would the layout cope? Some languages have really long words: Rechtsschutzversicherungsgesellschaften (google it) for example. Do you have text 'locked away' in images that can't be translated? What happens when your browser has to show text with a different alphabet?
-    
-We would like you to run your site through google translate (using the chrome browser plugin) and check that a visitor from another country would be able to use your site in their language. We'd suggest German, Russian and Chinese as a start - if one of your team members can speak another language please use their expertise and test the site in their language (how good a job does google translate do?). If your site has a form, check this list of falsehoods - are you assuming anything about your users you shouldn't?
-    
 Put together a short report with screenshots (250 words) of three translated versions of the homepage and an inner page of your site, and talk about any issues you found as a result.
     
-Use the [report template document](../../raw/master/templates/template_internationalisation.docx).
-    
-### Output
-
-Format - docx file. Filename - `internationalisation.docx`. Save to the `docs` folder.
+>Document: [internationalisation.md](internationalisation.md)
 
 ---
     
-## The brief - Quality audit
+## Quality audit
     
 Test for quality. This includes html validation, coding, links, seo and metadata.
     
