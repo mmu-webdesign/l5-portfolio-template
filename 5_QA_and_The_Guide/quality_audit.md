@@ -1,6 +1,6 @@
 # Quality Audit
 
-Headings might include.
+Including.
 
 ## HTMl Validation
 
@@ -22,4 +22,4 @@ Also test your grammar and spelling as this will lose you credibility (**and mar
 
 ## SEO
 
-Your metadata (titles, meta description, link text, use of headings, use of keywords in your text).
+Review your metadata (Checkbot will help)  including page titles, meta description, link text, use of headings, use of keywords in your text.

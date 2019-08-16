@@ -95,7 +95,11 @@ Test for quality. This includes html validation, coding, links, seo and metadata
     
 Undertake a speed test using one or more of the online tools. Identify and fix any overs-sized images (prime cause of slow loading).
     
-Validate and audit your CSS (looking for unused, redundant CSS)
+Validate and audit your CSS (looking for unused, redundant CSS).
+
+Validate your HTML. Review your HTML - has it maintained a strong semantic structure. Look for simple negative things like over use of the `<br>` tag to create space (rather than using CSS as you should).
+
+Writing
 
 #### Tools to use
     
@@ -103,15 +107,13 @@ Validate and audit your CSS (looking for unused, redundant CSS)
 1.  [Google Test my site](https://testmysite.withgoogle.com)
 1.  [HTML validation](https://validator.w3.org/nu/)
 1.  [CSS validation](https://jigsaw.w3.org/css-validator/)
+1.  [Squoosh for online image opitimisation](https://squoosh.app/)
+1.  Test the readability of your site content using the [free version of readable.com](https://readable.com/) 
     
 Develop a short report using selected screenshots to provide evidence. Discuss any issues discovered and how they were tackled.
     
-Use the [report template document](../../raw/master/templates/template_quality_audit.docx).
+> Document: [Quality Audit](quality_audit.md).
     
-### Output
-
-Format - docx file. Filename - `quality_audit.docx`. Save to the `docs` folder.
-
 ---
 
 ## The brief - Future developments
@@ -122,7 +124,7 @@ A single team statement on possible ways the site could be further developed for
     
 ### Output
 
-Format - docx file. Filename - `future.docx`. Save to the `docs` folder.
+> Document: [future.md](future.md)
 
 ---
 
