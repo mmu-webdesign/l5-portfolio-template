@@ -127,38 +127,43 @@ A single team statement on possible ways the site could be further developed for
 > Document: [future.md](future.md)
 
 ---
+## Final Documentation
 
-## The brief - Sprint sheets
+There are three remaining elements to complete the portfolio:
+
+- **Sprint sheets** - a pdf of your collection of sprint sheets.
+- **Peer Review Documents **- Completed, signed copies of the peer assessment documents. These will be printed and processed with each team on submission day.
+- **Individual statement** - a personal reflection on the project from each team member. Submitted for the deadline on Moodle, individually.
+
+## Sprint sheets
     
+During the two terms tutors will provide each team with a printed sprint sheet for the coming weeks work. 
+
 Sprint sheets are used to record three things:
     
 1.  What are you going to work on over the coming week?
 1.  Who in the team is going to do what?
 1.  Group health - is everyone engaged with the project?
     
-Most weeks tutors will review your sprint sheets as part of the sprint meeting. We will review the previous sprint sheet - did you achieve what you planned to do? We will discuss the new sprint sheet - what are you planning to do?
-    
-Use the [Sprint sheet template document](../../raw/master/templates/template_sprint_sheets.docx).
-    
-### Output
+As part of each sprint meeting tutors will review the previous sprint sheet - did you achieve what you planned to do? 
 
-Format - docx file. Filename - `sprint_sheets.docx`. Save to the `docs` folder.
+We will also discuss the new sprint sheet - what are you planning to do?
 
----
+At the end of the project scan all sprint sheets into a single document and save to the `5_QA_and_The_Guide` folder.
 
-## The brief - Peer assessment
-
-Printed copies of the forms will be supplied in class. They can also be downloaded - [peer assessment template document](../../raw/master/templates/template_peer_assessment.docx).
-    
-### Output
-
-You are required to print, complete, sign and scan the documents for SP5.
-
-Format - docx file. Filename - `peer_assessment.docx`. Save to the `docs` folder.
+> Document: [sprint_sheets.pdf](sprint_sheets.pdf)
 
 ---
 
-## The brief - Individual statement
+## Peer assessment
+
+A percentage of the assignment marks are available for peer review. A team that has worked well would elect to share the marks evenly. A team that has one or more team members who have not fully contributed to the project can agree, as a team to redistribute the marks. More will be explained in class.
+
+Printed copies of the forms will be supplied in the final class. 
+    
+---
+
+## Individual statement
     
 This is a chance to discuss how you and your colleagues managed the project, what you learnt plus your individual critique of the final product.
     
@@ -166,17 +171,18 @@ As this statement is personal you are not required to display this as part of th
     
 500 words (+/- 10%).
     
-Use the [template document for your individual statement](../../raw/master/templates/template_individual_statement.docx).
+Use the [template MSWord document for your individual statement](individual_statement.docx). 
     
-### Output
+**Moodle** - Each team member must upload their individual statement the the relevant dropbox on Moodle. 
 
-Format - docx file. Filename - `individual_statement.docx`. 
+Upload as a `pdf`. Use following format:
 
-**Moodle** - Each team member must upload their individual statement the the relevant dropbox on Moodle.
-    
-## Marks
+`team-number_mmuID.pdf`
 
-SP5 is worth 80% of the overall mark for Assessment One. This is divided 40% for the Guide project website and 40% for the Team website (including the portfolio of supporting documents). See marksheets for details.
+e.g. `01_99883344.pdf`
 
+ ---
 
-**End of Submission Point Five.**
+[Return to top](#Quality-Assurance-(QA)-and-The-Guide)
+
+---

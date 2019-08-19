@@ -175,6 +175,8 @@ Sp2 mettingBring your schema ideas to the presentation to discuss with tutors. A
 
 >Document: `schema.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
 
+---
+
 [Return to top](#Information-Architecture-(IA)-&-Content-Strategy)
 
 ---

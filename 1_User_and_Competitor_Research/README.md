@@ -130,6 +130,8 @@ Analyse the 3 sites using the criteria on the Competitor Analysis document provi
     
 *Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5.*
 
+---
+
 [Return to top](#User-&amp;-Competitor-Research)
 
 ---
