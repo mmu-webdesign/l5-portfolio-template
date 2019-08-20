@@ -6,7 +6,7 @@ SP3 is an assessed presentation and team meeting with tutors. Use the planning d
 
 ### For SP3 consists of:
 
-* **Presentation** - each team will pitch their final design in a short presentation to tutors using the content of [parallel-designs.md](parallel-designs.md).
+* **Presentation** - each team will pitch their final design in a short, 5 minute presentation to tutors using the content of [parallel-designs.md](parallel-designs.md).
 
 * **Team meeting** - each team will also discuss and evidence their progress with the mood boards and style guide.
 
