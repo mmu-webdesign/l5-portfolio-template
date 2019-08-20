@@ -13,6 +13,8 @@ As a student, to maximise the potential for a good mark you need to:
 - Ensure the project fulfils the requirements of the brief (by checking against the brief and marksheets).
 - By testing the final 'live' site before submission using the tools and techniques listed below.
 
+## QA elements
+
 - [Accessibility audit](#Accessibility-audit)
 - [Cross Browser testing](#Cross-Browser-testing)
 - [Usability testing report](#Usability-testing-report)
