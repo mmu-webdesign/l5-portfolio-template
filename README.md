@@ -1,12 +1,8 @@
 # Level 5 Portfolio Repository
 
-<!-- Complete these first three sections. -->
+<!-- Complete these first two sections. -->
 
-## Title of your guide
-
-Plus a short introduction.
-
-## Add your Group name
+## Add your Team ID
 
 ### Team members
 
