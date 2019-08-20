@@ -1,7 +1,5 @@
 # Information Architecture (IA) & Content Strategy
 
-### Term 1. Weeks 7-12.
-
 ## Submission Point Two
 
 SP2 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for preparedness and presentation.
@@ -16,7 +14,8 @@ Final versions of these documents are assessed at the final submission.
 *   [Information Architecture Report](#Information-Architecture-Report)
 *   [Site Plan](#site-plan)
 *   [Content Delivery Schedule](#content-delivery-schedule)
-* [Database schema](#Database-schema)
+*   [Database Schema](#Database-schema) - AWDD only
+*   [Video Storyboard](#video-storyboard) - WSD only
 
 ---
 
@@ -163,17 +162,35 @@ You are required to use the Content Schedule template document provided.
 
 ## Database schema
 
-### AWDD Students only
+> ### AWDD Students only
 
-Your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local cheese varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. 
+**Apprentice degree students**, your site needs to hold some of its content in a database – news items, list of events, public artwork names and locations, local beer varieties, etc etc. You need to think about which ‘fields’ your database will need and what sort of information they would contain. 
 
 We also need you to create a sketch in code or on paper of how these database fields will be shown on the site on a ‘list page’ and a ‘detail’ page – e.g. the ‘list page’ would list all the cheeses, and the detail page would have all the information about one type of cheese – what does it look like, where can I buy it, who makes it, etc.
 
-### Output
+### SP2 meeting
 
-Sp2 mettingBring your schema ideas to the presentation to discuss with tutors. Any output can be then scanned and saved as a pdf.
+Bring your schema ideas to the meeting to discuss with tutors. Any output can then be scanned and saved as a pdf.
 
 >Document: `schema.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
+
+---
+
+## Video Storyboard
+
+> ### WSD Students only
+
+**Digital Media students**, you are required to build a feature page as part of your guide.
+
+This page should be used to promote a particular element of your guides topic such as a favourite cocktail bar, the best sports venue or the coolest shop.
+
+**The feature page must include a short, high quality video lasting no more than one minute**.
+
+### SP2 meeting
+
+Bring a storyboard to pitch your video idea to the client at the meeting. Any output can then be scanned and saved as a pdf.
+
+>Document: `video-storyboard.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
 
 ---
 

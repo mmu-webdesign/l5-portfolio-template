@@ -21,6 +21,8 @@ For Submission Point 5 all of the following documents need to be completed and i
 
  AWDD only [schema.pdf](2_IA_and_Content_Strategy/schema.pdf)
 
+WSD only [video-storyboard.pdf](2_IA_and_Content_Strategy/video-storyboard.pdf)
+
 ## SP3
 
 - [sp3-planning.md](3_Design_&_Prototyping/sp3-planning.md)
@@ -36,4 +38,9 @@ For Submission Point 5 all of the following documents need to be completed and i
 
 ## SP5
 
+ Your finished website:
  [The Guide website](the-guide/)
+
+ The remaining elements of the portfolio:
+
+ - 

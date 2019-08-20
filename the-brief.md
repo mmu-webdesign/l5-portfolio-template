@@ -57,19 +57,23 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 -  Fast download speeds.
 
+-  To implement a contact form - Use [the service Formspree](https://formspree.io/) to make your form live.
+
 -  Each page must carry our standard disclaimer -- the text will be provided by the tutors as disclaimer.txt.
 
 ### Web Site Development ONLY
 
--  A working contact form that makes sense within your 'site flow'
+Digital Media students, you are required to build a feature page as part of your guide.
 
-- Use [the service Formspree](https://formspree.io/) to make your form live.
+- The feature page must include a short, high quality video lasting no more than one minute.
+
 
 ### Applied Web Design and Development ONLY
 
+Apprentice students are required to add a small element of dynamic content to their site.
+
 -  A `PHP/MySQL` database driven section with a listing and detail page.
 
--  A working `PHP` contact form that makes sense within your 'site flow'.
 
 ## Required practices
 

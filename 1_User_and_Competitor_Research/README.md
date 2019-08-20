@@ -1,7 +1,5 @@
 # User &amp; Competitor Research
 
-### Term 1. Weeks 1-5.
-
 ## Submission Point One
 SP1 is an assessed team meeting with tutors. Use the planning document as a guide. Marks are awarded for attendance, engagement and preparedness.
 

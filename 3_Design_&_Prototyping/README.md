@@ -1,7 +1,5 @@
 # Design and Prototyping
 
-### Term 2. Weeks 1-5.
-
 ## Submission Point Three
 
 SP3 is an assessed presentation and team meeting with tutors. Use the planning document as a guide. Marks are awarded for attendance, engagement and preparedness.

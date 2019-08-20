@@ -2,11 +2,9 @@
 
 ## Submission Point Five
 
-The final reports plus the finished `Guide` website.
+> *SP5 is the final submission. Your completed `Guide` website plus this portfolio of evidence developed over all of the submission points (SP1-5)*.
 
-## QA
-
-### Testing the site to ensure quality
+## Testing the site to ensure quality
 
 Quality assurance is essential for any finished product. In the 'real world' you don't want to be releasing a product (website) that contains errors and omissions. 
 
@@ -15,15 +13,19 @@ As a student, to maximise the potential for a good mark you need to:
 - Ensure the project fulfils the requirements of the brief (by checking against the brief and marksheets).
 - By testing the final 'live' site before submission using the tools and techniques listed below.
 
-- Accessibility audit
-- Cross Browser testing
-- Usability testing report
-- Google translation testing report
-- Quality audit
-- sprint_sheets
-- Individual statement - to be uploaded to Moodle
+- [Accessibility audit](#Accessibility-audit)
+- [Cross Browser testing](#Cross-Browser-testing)
+- [Usability testing report](#Usability-testing-report)
+- [Google translation testing report](#Google-translation-testing-report)
+- [Quality audit](#Quality-audit)
+- [Future developments](#Future-developments)
 
-*SP5 is the final submission. Your completed Guide website plus this portfolio of evidence developed over the previous submission points*.
+### Final Documentation
+
+- [Sprint sheets](#Sprint-sheets)
+- [Peer assessment](#Peer-assessment)
+- [Individual statement](#Individual-statement) 
+
 
 ## Accessibility audit
     
@@ -47,7 +49,7 @@ Three documents are provided.
 
 Create a single document containing your completed checklist and comments document. Format - pdf file. 
 
->Document: [accessibility.pdf](accessibility.pdf)
+> Document: [accessibility.pdf](accessibility.pdf)
 
 ---
     
@@ -116,24 +118,20 @@ Develop a short report using selected screenshots to provide evidence. Discuss a
     
 ---
 
-## The brief - Future developments
+## Future developments
     
 A single team statement on possible ways the site could be further developed for the client in the future.
-    
+
+**Warning:** if you simply list a number of features that could have been implemented as part of your submission, then you are simply highlighting your failings as a team.  
+
 250 words (+/- 10%)
     
-### Output
-
 > Document: [future.md](future.md)
 
 ---
 ## Final Documentation
 
-There are three remaining elements to complete the portfolio:
-
-- **Sprint sheets** - a pdf of your collection of sprint sheets.
-- **Peer Review Documents **- Completed, signed copies of the peer assessment documents. These will be printed and processed with each team on submission day.
-- **Individual statement** - a personal reflection on the project from each team member. Submitted for the deadline on Moodle, individually.
+There are three remaining elements to complete the portfolio.
 
 ## Sprint sheets
     
