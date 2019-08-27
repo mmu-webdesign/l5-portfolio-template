@@ -9,12 +9,12 @@ For Submission Point 5 all of the following documents need to be completed and i
  - [user-research.md](1_User_and_Competitor_Research/user-research.md)
  - [proposal.md](1_User_and_Competitor_Research/proposal.md)
  - [competitor-analysis.docx ](1_User_and_Competitor_Research/competitor-analysis.docx)
+  - [personas.md](1_User_and_Competitor_Research/personas.md)
+ - [storyboards.md](1_User_and_Competitor_Research/storyboards.md)
 
 ## SP2
 
  - [sp2-planning.md](2_IA_and_Content_Strategy/sp2-planning.md)
- - [personas.md](2_IA_and_Content_Strategy/personas.md)
- - [storyboards.md](2_IA_and_Content_Strategy/storyboards.md)
  - [ia-report.md](2_IA_and_Content_Strategy/ia-report.md)
  - [siteplan.md](2_IA_and_Content_Strategy/siteplan.md)
  - [content-delivery-schedule.xlsx](2_IA_and_Content_Strategy/content-delivery-schedule.xlsx)
