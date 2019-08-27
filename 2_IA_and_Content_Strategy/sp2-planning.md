@@ -15,24 +15,10 @@ Use this as a working document throughout the project to help manage these docum
 * status - 
 * actions -
 
-
-### Personas
-* author(s) -
-* status - 
-* actions -
-
-
-### User Storyboards
-* author(s) -
-* status - 
-* actions -
-
-
 ### Information Architecture report
 * author(s) -
 * status - 
 * actions -
-
 
 ### Site Plan
 * author(s) -

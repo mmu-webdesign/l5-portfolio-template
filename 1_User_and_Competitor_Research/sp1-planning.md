@@ -39,6 +39,18 @@ Use this as a working document throughout the project to help manage these docum
 * status - 
 * actions -
 
+
+### Personas
+* author(s) -
+* status - 
+* actions -
+
+
+### User Storyboards
+* author(s) -
+* status - 
+* actions -
+
 ### Notes
 
 **Author(s)** - name - who is responsible for this document?

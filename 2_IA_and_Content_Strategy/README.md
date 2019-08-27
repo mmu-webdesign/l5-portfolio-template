@@ -9,8 +9,6 @@ The following documents should be presented. Note that they are not being assess
 Final versions of these documents are assessed at the final submission.
 
 *   [SP2 planning document](#SP2-planning-document)
-*   [Personas](#personas)
-*   [User Storyboards](#user-storyboards)
 *   [Information Architecture Report](#Information-Architecture-Report)
 *   [Site Plan](#site-plan)
 *   [Content Delivery Schedule](#content-delivery-schedule)
@@ -24,57 +22,6 @@ Final versions of these documents are assessed at the final submission.
 As per SP1, use the planning document to prepare and record the meeting.
 
 >Document: [sp2-planning.md](sp2-planning.md)
-
----
-
-## Personas
-    
-User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your guide.
-    
-One must be an international visitor to your site. Maybe one disabled but this must be based on your research not a guess.
-    
-We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
-
-### Instructions:
-
-- Output each of your personas as .jpg or .png files
-- Ensure the files are at least 1900px wide
-- Save to the sp2-media folder
-- Embed each persona image (using the code provided) in `personas.md`
-
->Document: [personas.md](personas.md)
-
-*Your personas will be reviewed and feedback provided at SP2. They are marked at SP5.*
-
----
-
-## User Storyboards
-
->STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
-
-Create a simple storyboard (6 or 8 cells) for each of your personas. Illustrate how they might each interact with your guide. This could be an illustration of their touch points and interactions with your guide throughout the day, or perhaps during a term.
-
-This will help the team think about how your users are going to use and interact with your guide.
-
-To learn more read [Storyboards Help Visualize UX Ideas
-by Rachel Krause ](https://www.nngroup.com/articles/storyboards-visualize-ideas/).
-
-Rachel also has a video - [How to Create a UX Storyboard](https://youtu.be/bNh54LNUtv8).
-
-### Instructions:
-
-- Create your persona on paper or digitally depending on your skills. It does not be high fidelity.
-- The above article includes a template you can print, or shows how post-its can be used in a collaborative manner.
-- Add captions to each frame.
-- If on paper, scan rather than photograph for better results.
-- Output each of your storyboards as .jpg or .png files
-- Ensure the files are at least 1900px wide
-- Save to the sp2-media folder
-- Embed each storyboard image (using the code provided) in `storyboards.md`
-
->Document: [storyboards.md](storyboards.md)
-
-*Your storyboards will be reviewed and feedback provided at SP2. They are marked at SP5.*
 
 ---
     
