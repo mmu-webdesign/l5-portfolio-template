@@ -20,7 +20,7 @@ The project is broken down into 5 separate submission points. Submission Point 5
 
 SP1-4 are check points to provide formative feedback. Each of these are worth up to 5 marks for engagement and professionalism.
 
-Ultimately (submission point 5) you will be submitting this repository which will contain your completed Portfolio and Guide website.
+Ultimately (submission point 5) you will be submitting this repository which will contain your completed Portfolio and Guide website. All the elements are listed and should be linked from [portfolio.md](portfolio.md). Use this as a checklist prior to submission.
 
 ## Submission point briefings
 
