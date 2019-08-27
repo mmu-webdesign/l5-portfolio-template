@@ -116,7 +116,7 @@ Writing
     
 Develop a short report using selected screenshots to provide evidence. Discuss any issues discovered and how they were tackled.
     
-> Document: [Quality Audit](quality_audit.md).
+> Document: [quality_audit.md](quality_audit.md).
     
 ---
 

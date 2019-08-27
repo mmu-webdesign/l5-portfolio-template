@@ -43,4 +43,18 @@ WSD only [video-storyboard.pdf](2_IA_and_Content_Strategy/video-storyboard.pdf)
 
  The remaining elements of the portfolio:
 
- - 
+### QA elements
+
+- [Accessibility audit](5_QA_and_The_Guide/accessibility.pdf)
+- [Cross Browser testing](5_QA_and_The_Guide/browser_testing.md)
+- [Google translation testing report](5_QA_and_The_Guide/internationalisation.md)
+- [Quality audit](5_QA_and_The_Guide/quality_audit.md)
+- [Future developments](5_QA_and_The_Guide/future.md)
+
+### Final Documentation
+
+Team [Sprint sheets](5_QA_and_The_Guide/sprint_sheets.pdf) scanned and uploaded as a pdf.
+
+**Peer assessment** forms to be completed in class.
+
+Each team member must upload their  [Individual statement](5_QA_and_The_Guide/individual_statement.docx) the the relevant dropbox on Moodle. 
