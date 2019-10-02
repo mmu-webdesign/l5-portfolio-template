@@ -1,6 +1,6 @@
 # THE BRIEF - A Guide to Manchester
 
-Your tutors are acting as the client - in this scenario they are representing Manchester Metropolitan University.
+Your tutors are acting as the client - in this scenario they are representing and making decisions on behalf of Manchester Metropolitan University.
 
 ## Overview
 
