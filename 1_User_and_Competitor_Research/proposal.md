@@ -4,7 +4,7 @@ The *italic text* below is a guide to each section. Remove this text and add you
 
 Max 1000 words (+/- 10%).
 
-# Project summary
+## Project summary
 
 *What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift*.
 
