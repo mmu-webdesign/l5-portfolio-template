@@ -119,7 +119,7 @@ We also need you to create a sketch in code or on paper of how these database fi
 
 Bring your schema ideas to the meeting to discuss with tutors. Any output can then be scanned and saved as a pdf.
 
->Document: `schema.pdf`. Save to the `2_IA_and_Content_Strategy` folder.
+>Document: depending on the software you're using, upload this as `schema.xslx` (Excel spreadsheet) or `schema.pdf` (e.g. output from SQL workbench). Save to the `2_IA_and_Content_Strategy` folder.
 
 ---
 
